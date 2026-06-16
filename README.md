@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Web project**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Bhakti-Ranjan-Das/BHAKTI.PORTFOLIO.git](https://github.com/Bhakti-Ranjan-Das/BHAKTI.PORTFOLIO.git) [https://bhakti-ranjan-das.github.io/My-Portfilio/](https://bhakti-ranjan-das.github.io/My-Portfilio/)
+- 👨‍💻 All of my projects are available at [https://github.com/Bhakti-Ranjan-Das/BHAKTI.PORTFOLIO.git](https://bhaktidasportfolio.netlify.app/) [https://bhakti-ranjan-das.github.io/My-Portfilio/](https://bhakti-ranjan-das.github.io/My-Portfilio/)
 
 - 💬 Ask me about **Python**
 
